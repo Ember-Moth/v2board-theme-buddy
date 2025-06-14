@@ -1,10 +1,4 @@
 <div align="center">
-    <h1>本主题已停止维护，新主题请查看<br><a href="https://github.com/dc8683/v2board-theme-airrocket">AirRocket Theme</a></h1>
-</div>
-
-![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/M9IVJMR2HT8G8.4ub4f0ccif.webp)
-
-<div align="center">
     <a href="https://r8d.pro"><img src="https://github.com/dc8683/picx-images-hosting/raw/master/AirBus-LOGO@1x.4xups4vz5r.webp" alt="airbuddy rocket theme" width="150" /></a>
     <h1>AirBus Theme</h1>
     <p><b>🚀 以用户体验、新用户转化率、老客户续费率等商业价值目标打造高品质主题 🚀</b></p>
